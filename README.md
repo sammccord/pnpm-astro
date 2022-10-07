@@ -13,4 +13,4 @@ pnpm install
 
 Your settings should look as follows:
 
-![vercel settings](./vercel-settings.png)
+![vercel settings](./vercel_settings.png)
