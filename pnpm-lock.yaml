@@ -7,10 +7,10 @@ importers:
 
   packages/astro:
     specifiers:
-      '@astrojs/vercel': 0.0.0-monorepos-20221010034923
+      '@astrojs/vercel': ^2.1.1
       astro: ^1.4.6
     dependencies:
-      '@astrojs/vercel': 0.0.0-monorepos-20221010034923
+      '@astrojs/vercel': 2.1.1
       astro: 1.4.6
 
 packages:
@@ -117,8 +117,8 @@ packages:
       - supports-color
     dev: false
 
-  /@astrojs/vercel/0.0.0-monorepos-20221010034923:
-    resolution: {integrity: sha512-lFXhbCGxYD8E783MjQl00jJTZmhdhPlN5SWJYEcXm4n1hz3AhoRwleEvXHIOCMTEjG4S7VzfBR7oZYhk8PQTAg==}
+  /@astrojs/vercel/2.1.1:
+    resolution: {integrity: sha512-jvuLxWSshOrtTjcPKzYYhnysUquEJn0GJUCK42cqqGj/kH7tE5mOlpk7WAnHxbEOUMtWRAYmkMs3px2cLFCW4Q==}
     dependencies:
       '@astrojs/webapi': 1.1.0
       '@vercel/nft': 0.22.1
